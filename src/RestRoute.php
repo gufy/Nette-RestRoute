@@ -146,6 +146,9 @@ class RestRoute extends Object implements IRouter {
       case 'DELETE':
         $action = 'delete';
         break;
+      case 'UPDATE':
+        $action = 'create';
+        break;
       default:
         throw new InvalidStateException('Method ' . $method . ' is not allowed.');
     }
