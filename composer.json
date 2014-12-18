@@ -1,12 +1,12 @@
 {
-  "name": "adamstipak/nette-rest-route",
+  "name": "gufy/nette-rest-route",
   "description": "Rest route for Nette Framework",
   "keywords": ["nette", "routing"],
   "license": "MIT",
-  "homepage": "https://github.com/newPOPE/Nette-RestRoute",
+  "homepage": "https://github.com/gufy/Nette-RestRoute",
   "authors": [
     {
-      "name": "Adam Štipák",
+      "name": "Adam Štipák, Vojtech Kopal",
       "homepage": "http://newpope.org"
     }
   ],
