@@ -146,7 +146,7 @@ class RestRoute extends Object implements IRouter {
       case 'DELETE':
         $action = 'delete';
         break;
-      case 'UPDATE':
+      case 'OPTIONS':
         $action = 'create';
         break;
       default:
